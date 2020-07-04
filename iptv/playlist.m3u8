@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://en.wikipedia.org/wiki/Peace_TV#/media/File:Peacetvlogo.png" group-title="International",PeaceTV
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Peacetvlogo.png" group-title="International",PeaceTV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="International",Al Jazeera
