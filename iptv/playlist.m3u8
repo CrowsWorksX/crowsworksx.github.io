@@ -1,111 +1,111 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Peacetvlogo.png" group-title="International",PeaceTV
+#EXTINF:-1  tvg-id="PeaceTV" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Peacetvlogo.png" group-title="International",PeaceTV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="International",Al Jazeera
+#EXTINF:-1  tvg-id="AlJazeera" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="International",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",Arirang
+#EXTINF:-1 tvg-id="Arirang" tvg-name="" tvg-language="" tvg-country="" tvg-url="" logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="International",RT
+#EXTINF:-1 tvg-id="RT" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="International",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="International",TRT World
+#EXTINF:-1 tvg-id="TRT" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="International",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="News",ChannelNewsAsia 
+#EXTINF:-1 tvg-id="CNA" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="News",ChannelNewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapore",Channel 5 
+#EXTINF:-1  tvg-id="Ch5" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapore",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapore",Suria 
+#EXTINF:-1 tvg-id="Suria" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapore",Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="Singapore",Channel 8 
+#EXTINF:-1 tvg-id="Ch8" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="Singapore",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="Singapore",Channel U 
+#EXTINF:-1 tvg-id="ChU" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="Singapore",Channel U 
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore",Vasantham 
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore",Vasantham 
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url=""tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia" ,RTM 1
+#EXTINF:-1 tvg-id="RTM1" tvg-name="" tvg-language="" tvg-country="MY" tvg-url=""tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia" ,RTM 1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",RTM 2
+#EXTINF:-1 tvg-id="RTM2" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",RTM 2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.rtm.gov.my/images/images/bes.png" group-title="Malaysia",Berita RTM
+#EXTINF:-1 tvg-id="BeritaRTM" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.rtm.gov.my/images/images/bes.png" group-title="Malaysia",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.rtm.gov.my/images/images/okey1.png" group-title="Malaysia",RTM Okey
+#EXTINF:-1 tvg-id="OKEY" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.rtm.gov.my/images/images/okey1.png" group-title="Malaysia",RTM Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-id="TV3" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRabcoL8kiE5RW4jsRMOnDg)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat
+#EXTINF:-1 tvg-id="DramaSangat" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV7
+#EXTINF:-1 tvg-id="NTV7" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
+#EXTINF:-1 tvg-id="Awani" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Lokal",Naura
+#EXTINF:-1 tvg-id="Naura" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malaysia",Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.tvikim.my/images/logo-header-02.png" group-title="Malaysia",TV Ikim
+#EXTINF:-1 tvg-id="IKIM" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.tvikim.my/images/logo-header-02.png" group-title="Malaysia",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://cdn01.metrotvnews.com/asset/images/main/metrotv_white.png" group-title="Indonesia",Metro TV
+#EXTINF:-1 tvg-id="MetroTV" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://cdn01.metrotvnews.com/asset/images/main/metrotv_white.png" group-title="Indonesia",Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-id="RCTI" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
+#EXTINF:-1 tvg-id="SCTV" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="Indonesia",TransTV
+#EXTINF:-1 tvg-id="TransTV" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="Indonesia",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans7
+#EXTINF:-1 tvg-id="Trans7" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="Indonesia",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI" tvg-name="" tvg-language="" tvg-country="ID" tvg-url="" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="Indonesia",TVRI Nasional
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC
+#EXTINF:-1 tvg-id="ABC" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="Australia",ABC Comedy
+#EXTINF:-1 tvg-id="ABCComedy" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="Australia",ABC Comedy
 https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="Australia",ABC ME
+#EXTINF:-1 tvg-id="ABCME" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="Australia",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="Australia",ABC News 24
+#EXTINF:-1 tvg-id="ABCNews" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="Australia",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Australia",ABC Kids
+#EXTINF:-1 tvg-id="ABCKids" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Australia",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="NZ" tvg-url="" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="New Zealand",Maori Television
+#EXTINF:-1 tvg-id="Maori" tvg-name="" tvg-language="" tvg-country="NZ" tvg-url="" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="New Zealand",Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="NZ" tvg-url="" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="New Zealand",Te Reo
+#EXTINF:-1 tvg-id="TeReo" tvg-name="" tvg-language="" tvg-country="NZ" tvg-url="" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="New Zealand",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
 

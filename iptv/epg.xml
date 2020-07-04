@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<settings>
+   
+	<!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+	<license wg-username="???" registered-email="???" password="???"></license>
+	<filename>????</filename>
+	<mode></mode>
+	<postprocess grab="y" run="n">mdb</postprocess>
+	<user-agent>
+		Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36 Edge/18.18362 Firefox/71.0
+	</user-agent>
+	<logging>on</logging>
+	<retry time-out="5">4</retry>
+	<timespan>7</timespan>
+	<update>f</update>
+
+	<channel update="i" site="mewatch.sg" site_id="181" xmltv_id="Ch5">Channel 5</channel>
+    <channel update="i" site="mewatch.sg" site_id="182" xmltv_id="Ch8">8</channel>
+    <channel update="i" site="mewatch.sg" site_id="183" xmltv_id="ChU">U</channel>
+    <channel update="i" site="mewatch.sg" site_id="105" xmltv_id="Vasantham">Vasantham</channel>
+    <channel update="i" site="mewatch.sg" site_id="104" xmltv_id="Suria">Suria</channel>
+    <channel update="i" site="mewatch.sg" site_id="191" xmltv_id="CNA">Channel NewsAsia</channel>
+  
+</settings>
