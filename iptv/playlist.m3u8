@@ -21,8 +21,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:-1  tvg-id="Ch5.SG" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5253176/16x9/947/533/af3ced69a4545a55de38abcbab650fbd/Gs/channel-5.png" group-title="Singapore",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
-#EXTINF:-1 tvg-id="Sur.SG" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="
-https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" group-title="Singapore",Suria 
+#EXTINF:-1 tvg-id="Sur.SG" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" group-title="Singapore",Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 #EXTINF:-1 tvg-id="Ch8.SG" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/947/533/42e7ea2c01e1d100b70b910ab686d1a9/QI/channel-8.png" group-title="Singapore",Channel 8 
