@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://epg.beinsports.com/france_sports/HD1.svg" group-title="Sports",beIN Sports 1 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/4885.m3u8?checkedby:iptvcat.com
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4658?checkedby:iptvcat.com
 
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://epg.beinsports.com/france_sports/HD2.svg" group-title="Sports",beIN Sports 2 HD
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/4886.m3u8?checkedby:iptvcat.com
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4659?checkedby:iptvcat.com
+
