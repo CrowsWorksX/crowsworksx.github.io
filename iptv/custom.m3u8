@@ -3,11 +3,11 @@
 #EXTINF:-1  tvg-id="PeaceTV" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Peacetvlogo.png" group-title="International",PeaceTV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ari.KR" tvg-name="" tvg-language="" tvg-country="KR" tvg-url="" logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-id="Jaz.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="Ari.KR" tvg-name="" tvg-language="" tvg-country="KR" tvg-url="" logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/RT_Russia_Today_logo_emblem_logotype_2-700x700.png" group-title="News",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
@@ -17,12 +17,6 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="Cna.SG" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="News",ChannelNewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
-#EXTINF:-1 tvg-id="BeritaRTM" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.rtm.gov.my/images/images/bes.png" group-title="News",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="A24.AU" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg" group-title="News",ABC News 24
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1  tvg-id="Ch5.SG" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5253176/16x9/947/533/af3ced69a4545a55de38abcbab650fbd/Gs/channel-5.png" group-title="Singapore",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -44,6 +38,9 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV2.MY" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",RTM 2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeritaRTM" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.rtm.gov.my/images/images/bes.png" group-title="Malaysia",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oky.MY" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.rtm.gov.my/images/images/okey1.png" group-title="Malaysia",RTM Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
@@ -99,5 +96,20 @@ https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8
 #EXTINF:-1 tvg-id="AB3.AU" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="http://www.abc.net.au/cm/rimage/9566836-16x9-large.jpg" group-title="Australia",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 
+#EXTINF:-1 tvg-id="A24.AU" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://www.abc.net.au/news/linkableblob/8413676/data/abc-news-og-data.jpg" group-title="Australia",ABC News 24
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 #EXTINF:-1 tvg-id="ABK.AU" tvg-name="" tvg-language="" tvg-country="AU" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ABC_Kids_Logo_2020.png" group-title="Australia",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
+
+#EXTINF:-1 tvg-id="MAO.NZ" tvg-name="" tvg-language="" tvg-country="NZ" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/M%C4%81ori_Television_Logo.png" group-title="New Zealand",Maori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+
+#EXTINF:-1 tvg-id="TRE.NZ" tvg-name="" tvg-language="" tvg-country="NZ" tvg-url="" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="New Zealand",Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="DE" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Germany",DMAX
+http://mojaiptv.net:80/edoedo/edoedo/334?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Turkey",DMAX
+http://94.46.195.170:9000/ntvspor/live.m3u8?checkedby:iptvcat.com
