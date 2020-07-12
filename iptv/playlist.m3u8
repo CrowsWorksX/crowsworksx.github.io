@@ -12,7 +12,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="RT.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/RT_Russia_Today_logo_emblem_logotype_2-700x700.png" group-title="News",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
-#EXTINF:-1 tvg-id="TRT.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.asiasat.com/sites/default/files/asiasat%20customer%20%20trt%20world_1.png" group-title="News",TRT World
+#EXTINF:-1 tvg-id="TRT.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/11/TRT-world-696x398.png" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="Cna.SG" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="News",ChannelNewsAsia 
