@@ -3,7 +3,7 @@
 #EXTINF:-1  tvg-id="PeaceTV" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Peacetvlogo.png" group-title="International",PeaceTV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ari.KR" tvg-name="" tvg-language="" tvg-country="KR" tvg-url="" logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",Arirang
+#EXTINF:-1 tvg-id="Ari.KR" tvg-name="" tvg-language="" tvg-country="KR" tvg-url="" logo=https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_400x400.jpg"" group-title="International",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-id="Jaz.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera
