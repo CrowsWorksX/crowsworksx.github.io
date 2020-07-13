@@ -3,7 +3,7 @@
 #EXTINF:-1  tvg-id="PeaceTV" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Peacetvlogo.png" group-title="International",PeaceTV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ari.KR" tvg-name="" tvg-language="" tvg-country="KR" tvg-url="" logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",Arirang
+#EXTINF:-1 tvg-id="Ari.KR" tvg-name="" tvg-language="" tvg-country="KR" tvg-url="" logo=https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_400x400.jpg"" group-title="International",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-id="Jaz.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="News",Al Jazeera
@@ -12,7 +12,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="RT.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/RT_Russia_Today_logo_emblem_logotype_2-700x700.png" group-title="News",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
-#EXTINF:-1 tvg-id="TRT.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.asiasat.com/sites/default/files/asiasat%20customer%20%20trt%20world_1.png" group-title="News",TRT World
+#EXTINF:-1 tvg-id="TRT.News" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/11/TRT-world-696x398.png" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="Cna.SG" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="News",ChannelNewsAsia 
@@ -49,7 +49,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.MY" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRabcoL8kiE5RW4jsRMOnDg)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHef7_TFzkt7SJfDnDP4pWyU)/dm/3/x6qp375/d/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
