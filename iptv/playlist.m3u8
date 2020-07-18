@@ -49,7 +49,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.MY" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYi8lh3mD99tv0SLWcpBqBc)/dm/3/x6qp375/d/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
 #EXTINF:-1 tvg-id="Naura" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malaysia",Naura
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+http://freeview.mywire.org:9090/streams/naura.m3u8
 
 #EXTINF:-1 tvg-id="IKIM" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.tvikim.my/images/logo-header-02.png" group-title="Malaysia",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
