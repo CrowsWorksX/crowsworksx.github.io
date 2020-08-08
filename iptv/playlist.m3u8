@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
 #EXTINF:-1 tvg-id="Naura" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Malaysia",Naura
-http://freeview.mywire.org:9090/streams/naura.m3u8
+https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 
 #EXTINF:-1 tvg-id="IKIM" tvg-name="" tvg-language="" tvg-country="MY" tvg-url="" tvg-logo="https://www.tvikim.my/images/logo-header-02.png" group-title="Malaysia",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
