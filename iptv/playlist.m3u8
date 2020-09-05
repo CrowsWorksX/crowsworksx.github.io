@@ -25,19 +25,19 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1  tvg-id="CH5" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5253176/16x9/947/533/af3ced69a4545a55de38abcbab650fbd/Gs/channel-5.png" group-title="Singapore",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/329
 
 #EXTINF:-1 tvg-id="Suria" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5249134/16x9/947/533/47350f877c34609e643ae8c786ed8dd/Qc/suria.png" group-title="Singapore",Suria 
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/334
 
 #EXTINF:-1 tvg-id="CH8" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/947/533/42e7ea2c01e1d100b70b910ab686d1a9/QI/channel-8.png" group-title="Singapore",Channel 8 
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/330
 
 #EXTINF:-1 tvg-id="CHU" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/947/533/d51fc06e62ced91d8f8abe3a6a82edb2/NA/channel-u.png" group-title="Singapore",Channel U 
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/331
 
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="" tvg-language="" tvg-country="SG" tvg-url="" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore",Vasantham 
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/335
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="" tvg-language="" tvg-country="MY" tvg-url=""tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia" ,RTM 1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
