@@ -1,5 +1,7 @@
 #EXTM3U
 
+https://fvtv.link/my/tv.m3u
+
 #EXTINF:-1  tvg-id="PeaceTV" tvg-name="" tvg-language="" tvg-country="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Peacetvlogo.png" group-title="International",PeaceTV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 
